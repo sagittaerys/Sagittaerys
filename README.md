@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Olamilekan....<br><br>Aspiring Full Stack Developer | Startup Builder |<br><br>🚀 About Me<br><br>- 💻 Currently learning React.js, working towards Full Stack Web Development<br>- 🌱 Passionate about tech for agriculture, digital leadership<br>
+👋Hi, I'm Olamilekan....<br><br>Aspiring Full Stack Developer |<br><br>🚀 About Me<br><br>- 💻 Currently learning React.js, working towards Full Stack Web Development<br>- 🌱 Passionate about tech for agriculture, digital leadership<br>
 ⚡ Fun fact: Do you know, JavaScript is capable of making you have an existential crisis??😅
 
 
