@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [Sage's Portfolio](http:// www.sagenet.com)
+* 🖥️  See my portfolio at [Sage's Portfolio](https://sagittaerys-portfolio.vercel.app)
 * ✉️  You can contact me at [aremu0235@gmail.com](mailto:aremu0235@gmail.com)
 * 🚀  I'm currently working on [Sagittaerean Mall](http://e-commerce-web-jet-tau.vercel.app/)
 * ⚡  Centaurs exist 🌚→ I’ve got one in my backyard 😂
