@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [Sage's Portfolio](https://sagittaerys-portfolio.vercel.app)
 * ✉️  You can contact me at [aremu0235@gmail.com](mailto:aremu0235@gmail.com)
-* ⚡  Centaurs exist 🌚→ I’ve got one in my backyard 😂
+
 
 <a href="https://www.github.com/Sagittaerys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sagittaerys?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sagittaric" target="_blank" rel="noreferrer"><img
