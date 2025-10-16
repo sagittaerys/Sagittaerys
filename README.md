@@ -6,6 +6,8 @@
 🖥️ Portfolio: [sagittaerys-portfolio.vercel.app](https://sagittaerys-portfolio.vercel.app)  
 ✉️ Reach me: [aremu0235@gmail.com](mailto:aremu0235@gmail.com)  
 
+
+![Profile views](https://komarev.com/ghpvc/?username=sagittaerys&color=blue)
 ---
 
 ## Tech Stack  
