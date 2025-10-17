@@ -35,11 +35,9 @@
 ## Connect with Me  
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="https://x.com/sagittaric"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
   <a href="https://instagram.com/sagittaerys_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
- 
 </p>  
 
 ---
