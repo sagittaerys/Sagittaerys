@@ -9,7 +9,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sagittaerys&color=blue)
 
 ---
-  
+
+## 🧰 Tech Stack  
 
 <p align="center">
 
@@ -31,7 +32,9 @@
 
 </p>
 
---- 
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
@@ -41,6 +44,7 @@
 
 ---
 
+## 📊 GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/Sagittaerys">
