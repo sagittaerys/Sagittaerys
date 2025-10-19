@@ -1,7 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sagittaerys&color=blue)
 
----
 
 ## 🧰 Tech Arsenal
 
@@ -35,7 +34,7 @@
   <a href="https://instagram.com/sagittaerys_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" /></a>
 </p>
 
----
+
 
 ## 🔥 My Stats  
 
