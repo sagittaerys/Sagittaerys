@@ -1,16 +1,9 @@
-# Hi there 👋, I'm Olamilekan Aremu  
-
-**Software Developer | Frontend & Full-Stack Enthusiast**  
-
-🌍 Based in **Lagos, Nigeria**  
-🖥️ Portfolio: [sagittaerys-portfolio.vercel.app](https://sagittaerys-portfolio.vercel.app)  
-✉️ Reach me: [aremu0235@gmail.com](mailto:aremu0235@gmail.com)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=sagittaerys&color=blue)
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Arsenal
 
 <p align="center">
 
@@ -32,9 +25,9 @@
 
 </p>
 
----
 
-## 🌐 Connect with Me  
+
+## Connect With Me? 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
@@ -44,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🔥 My Stats  
 
 <p align="center">
   <a href="https://github.com/Sagittaerys">
