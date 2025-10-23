@@ -55,10 +55,19 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="https://x.com/sagittaric"><img src="https://skillicons.dev/icons?i=x" height="40" alt="X" /></a>
-  <a href="https://instagram.com/sagittaerys_"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
-  <a href="mailto:olamilekanaremu.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/sagittaric" target="_blank" style="margin: 0 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" width="40" alt="X (Twitter)" style="filter: invert(100%);" />
+  </a>
+  <a href="https://instagram.com/sagittaerys_" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+  <a href="mailto:olamilekanaremu.dev@gmail.com" target="_blank" style="margin: 0 12px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>
 </p>
+
 
 
