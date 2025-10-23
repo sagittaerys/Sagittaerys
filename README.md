@@ -45,7 +45,5 @@
   <a href="https://github.com/Sagittaerys">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Sagittaerys&theme=tokyonight&hide_border=true" height="160" />
   </a>  
-  <a href="https://github.com/Sagittaerys">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagittaerys&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  </a>
+  
 </p>
