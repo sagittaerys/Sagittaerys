@@ -1,15 +1,15 @@
 <!-- Profile Views Badge -->
-<p>
 
 
 
-    [![wakatime] (https://wakatime.com/badge/user/bc3a7b58-6edc-43c4-bb83-b4815f265846.svg)](https://wakatime.com/@bc3a7b58-6edc-43c4-bb83-b4815f265846)
+
+   
   
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-</p>
+
 
 <!-- Hero Section -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#70a5fd;">Olamilekan Aremu</span></h1>
