@@ -27,7 +27,10 @@
   <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47a248" />
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f05032" />
   <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=f24e1e" />
+  <img src="https://img.shields.io/badge/Vue-1a1b27?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Twig-1a1b27?style=for-the-badge&logo=twig&logoColor=ffffff" />
 </p>
+
 
 ---
 
