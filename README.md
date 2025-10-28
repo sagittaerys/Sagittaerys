@@ -2,9 +2,8 @@
 <p>
 
 
-<p align="left">
+
     [![wakatime] (https://wakatime.com/badge/user/bc3a7b58-6edc-43c4-bb83-b4815f265846.svg)](https://wakatime.com/@bc3a7b58-6edc-43c4-bb83-b4815f265846)
-</p>
   
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
