@@ -75,7 +75,7 @@
   <a href="https://instagram.com/sagittaerys_" target="_blank" style="margin: 0 12px;">
     <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
   </a>
-  <a href="mailto:olamilekanaremu.dev@gmail.com" target="_blank" style="margin: 0 12px;">
+  <a href="mailto:aremu0235@gmail.com" target="_blank" style="margin: 0 12px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
   </a>
 </p>
