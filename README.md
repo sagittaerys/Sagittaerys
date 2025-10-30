@@ -11,7 +11,6 @@
 
 
 
-<!-- Hero Section -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#70a5fd;">Olamilekan Aremu</span></h1>
 
 
