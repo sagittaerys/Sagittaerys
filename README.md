@@ -9,45 +9,31 @@
 
 ---
 
+## Tech Arsenal
 
-## ⚔️ Tech Arsenal
-
-### 🧠 Languages
+### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178c6"/>
-  <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=e34f26"/>
-  <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572b6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-### ⚡ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764abc"/>
-  <img src="https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=ffb300"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind" />
 </p>
 
-### 🗄️ Backend & Databases
+### Backend & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=47a248"/>
-  <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase&logoColor=3fcf8e"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7"/>
-  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=f05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=f24e1e"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
 ---
 
-## ⚡ GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
@@ -61,7 +47,7 @@
 
 ---
 
-## ⏱️ WakaTime Analytics
+## WakaTime Analytics
 
 <p align="center">
   <a href="https://wakatime.com/@sagittaerys">
@@ -71,20 +57,20 @@
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077b5"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   <a href="https://x.com/sagittaric" target="_blank">
-    <img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=ffffff"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" width="40" style="filter: invert(100%);" />
   </a>
   <a href="https://instagram.com/sagittaerys_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=c13584"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   <a href="mailto:aremu0235@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ea4335"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
@@ -99,7 +85,7 @@
 ---
 
 <div align="center">
-  <p>🩸 Built by <strong>sagittaerys noctis</strong> — crafting code that outlives time.</p>
+  <p>Built by <strong>sagittaerys noctis</strong> — crafting code that outlives time.</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=150&section=footer" width="100%"/>
