@@ -23,7 +23,7 @@
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,vue,twig" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,vue" />
 </p>
 
 ### Backend & Databases
