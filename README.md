@@ -1,82 +1,94 @@
-<!-- Profile Views Badge -->
+<!-- Typing SVG Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6&height=220&section=header&text=Hey%20👋,%20I'm%20Olamilekan%20Aremu%20%7C%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
-
-
-
-   
-  
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-
-
-<h1 align="center">Hey there 👋, I'm <span style="color:#70a5fd;">Olamilekan Aremu</span></h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=480&lines=Frontend+Developer+⚡;UI%2FUX+Designer+🎨;Creative+Thinker+and+Visionary+💡;Building+Africa's+Digital+Future+🌍" alt="Typing Animation"/>
+</div>
 
 ---
 
-## ⚔️ Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=764abc" />
-  <img src="https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=ffb300" />
-  <img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=for-the-badge&logo=bootstrap&logoColor=7952b3" />
-  <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47a248" />
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=f24e1e" />
-  <img src="https://img.shields.io/badge/Vue-1a1b27?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Twig-1a1b27?style=for-the-badge&logo=twig&logoColor=ffffff" />
-</p>
-
+<div align="center">
+<img align="center" alt="Coding Animation" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 
 ---
 
-## ⚡My Stats
+## ⚔️ Tech Arsenal  
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,vite,tailwind,bootstrap,html,css,nodejs,express,mongodb,git,figma,vue,twig&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6&height=180&section=header&text=🔥GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <a href="https://github.com/Sagittaerys">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagittaerys&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=red_dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagittaerys&theme=red_dark&cache_seconds=86400" />
 </p>
 
+<table align="center">
+<tr>
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagittaerys&layout=donut&theme=dark&hide_border=true&langs_count=8&border_radius=20&title_color=FF0000&text_color=C9D1D9&bg_color=00000000" height="200" />
+</td>
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagittaerys&theme=2077" />
+</td>
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagittaerys&theme=2077&utc_offset=5.5" />
+</td>
+</tr>
+</table>
+</div>
 
+---
 
-## ⏱️ WakaTime Stats
+## ⏱️ WakaTime Analytics  
 
 <p align="center">
   <a href="https://wakatime.com/@sagittaerys">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagittaerys&theme=tokyonight&hide_border=true" height="300" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagittaerys&theme=red_dark&hide_border=true" height="300" />
   </a>
 </p>
 
+---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/olamilekan-aremu-a15651236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/sagittaric" target="_blank" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" width="40" alt="X (Twitter)" style="filter: invert(100%);" />
+  <a href="https://x.com/sagittaric" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/sagittaerys_" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  <a href="https://instagram.com/sagittaerys_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8a0000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:aremu0235@gmail.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  <a href="mailto:aremu0235@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
+### 👁️‍🗨️ Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=Profile+Views&color=red&style=for-the-badge" alt="Profile Views" />
+</p>
 
+---
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/sagittaerys">Sagittaerys Noctis</a></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
