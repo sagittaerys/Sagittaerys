@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=220&section=header&text=Olamilekan%20Aremu%20|%20Sagittaerys%20Noctis&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=220&section=header&text=Olamilekan%20Aremu%20|%20sagittaerys%20noctis&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,14 +9,6 @@
 
 ---
 
-## About Me
-
-> A craftsman of code and conviction — I’m **Olamilekan Aremu**, a front-end developer with a taste for design precision and strategic impact.  
-> My work is guided by one idea: *Africa’s renaissance will be built in code.*  
-> I’m building systems that blend **technology**, **leadership**, and **vision**, forging a legacy that turns potential into power.  
-> Every pixel, every commit, every late-night debug — it all moves toward a singular goal: **transforming Nigeria through technology**.
-
----
 
 ## ⚔️ Tech Arsenal
 
@@ -107,7 +99,7 @@
 ---
 
 <div align="center">
-  <p>🩸 Built by <strong>Sagittaerys Noctis</strong> — crafting code that outlives time.</p>
+  <p>🩸 Built by <strong>sagittaerys noctis</strong> — crafting code that outlives time.</p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=150&section=footer" width="100%"/>
