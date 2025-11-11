@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=220&section=header&text=Olamilekan%20Aremu%20|%20sagittaerys%20noctis&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
+<!-- Profile Views (Top Right) -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=Profile+Views&color=FF003C&style=flat-square" alt="Profile Views" />
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Builder+of+Digital+Empires;Vision+Driven+Innovator;Crafting+Africa’s+Tech+Future" alt="Typing Animation"/>
 </div>
@@ -18,7 +23,7 @@
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,vue,twig" />
 </p>
 
 ### Backend & Databases
@@ -72,14 +77,6 @@
   <a href="mailto:aremu0235@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-</p>
-
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=Profile+Views&color=FF003C&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
