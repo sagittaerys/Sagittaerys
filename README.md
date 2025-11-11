@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Builder+of+Digital+Empires;Vision+Driven+Innovator;Crafting+Africa’s+Tech+Future" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF003C&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Omni Reader; Full Stack Enthusiast" alt="Typing Animation"/>
 </div>
 
 ---
