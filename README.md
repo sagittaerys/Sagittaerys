@@ -81,8 +81,6 @@
 
 ---
 
-<div align="center">
-  <p>Built by <strong>sagittaerys noctis</strong> — crafting code that outlives time.</p>
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,19,20&height=150&section=footer" width="100%"/>
