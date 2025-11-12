@@ -16,9 +16,8 @@
 
 ## Tech Arsenal
 
-
+### Languages
 <p align="center">
-  ### Languages
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
