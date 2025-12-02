@@ -4,7 +4,7 @@
 
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=Profile+Views&color=AEE7FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sagittaerys&label=Profile+Views&color=FF0000&style=flat-square" alt="Profile Views" />
 </div>
 
 ### sagittaerys🐦‍🔥
