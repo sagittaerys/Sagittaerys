@@ -16,6 +16,4 @@ I’m focused on becoming a strong full-stack engineer and creating meaningful t
 Currently exploring Next.js, React Native, and systems that solve real problems.
 
 If you want to connect:  
-- [LinkedIn](https://www.linkedin.com/in/olamilekan-aremu-a15651236/)  
-- [X](https://x.com/sagittaric)  
-- [Email](mailto:aremu0235@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/olamilekan-aremu-a15651236/) || [X](https://x.com/sagittaric) || [Email](mailto:aremu0235@gmail.com)
