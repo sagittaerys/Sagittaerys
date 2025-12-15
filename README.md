@@ -19,8 +19,6 @@ Currently exploring Next.js, React Native, and systems that solve real problems.
 If you want to connect:  
 [LinkedIn](https://www.linkedin.com/in/olamilekan-aremu-a15651236/) || [X](https://x.com/sagittaric) || [Email](mailto:aremu0235@gmail.com)
 
-## GitHub Stats
-
 ![Olamilekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=radical)
 
 
