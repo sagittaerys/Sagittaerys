@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" />
 <!-- Profile Views (Top Right) -->
 
