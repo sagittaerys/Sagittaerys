@@ -19,6 +19,7 @@ Currently exploring Next.js, React Native, and systems that solve real problems.
 If you want to connect:  
 [X](https://x.com/sagittaric) || [Email](mailto:aremu0235@gmail.com)
 
-![Olamilekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=dark)
+![Olamilekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagittaerys&show_icons=true&theme=transparent&count_private=true&hide_border=true)
+
 
 
