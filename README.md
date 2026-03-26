@@ -14,9 +14,8 @@
  
 Learner. Builder. Thinker . Tinker
 
-I’m focused on becoming a strong full-stack engineer and creating meaningful tools.  
+I’m focused on becoming a cracked software engineer and creating meaningful tools.  
 
-Currently exploring Next.js, React Native, and systems that solve real problems.
 
 
 
