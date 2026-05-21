@@ -9,7 +9,7 @@
   "designation": "tinker / thinker",
   "alias": "sagittaerys🐦‍🔥",
   "rating": { "tinker": 7, "thinker": 6 },
-  "specialization": "systems & tooling — builds compounding digital infrastructure.",
+  "specialization": "systems, tooling and runes",
   "threat_level": "potential trump",
 }
 ```
