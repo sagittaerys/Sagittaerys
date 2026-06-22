@@ -10,7 +10,6 @@
   "alias": "sagittaerys🐦‍🔥",
   "rating": { "tinker": 7, "thinker": 6 },
   "specialization": "react, react-native, python and ruby",
-  "threat_level": "potential trump",
 }
 ```
 
